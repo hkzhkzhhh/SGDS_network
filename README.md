@@ -67,8 +67,8 @@ Our experiments cover model performance on both datasets, with evaluations on pi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/dual-stream-road-segmentation.git
-cd dual-stream-road-segmentation
+git clone https://github.com/hkzhkzhhh/SGDS_network.git
+cd SGDS_network
 ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
